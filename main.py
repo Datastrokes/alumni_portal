@@ -8,7 +8,7 @@ def pagefun():
     )
 
     searchPage=st.Page(
-        page="views/Search.py",
+        page="views/search.py",
         title="Search"
     )
 
