@@ -1,7 +1,2 @@
-import stramlit as st
-
-st.write("hello")
-
-
-
-
+import streamlit as st
+st.write("hellow")
